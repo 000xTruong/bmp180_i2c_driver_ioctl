@@ -6,13 +6,13 @@
 #include <errno.h> 
 #include <math.h>
 
-'''
+/*
 Họ và tên		            MSSV
 Nguyễn Thanh Trọng  	    22146431
 Huỳnh Xuân Trường  	        22146435
 Tạ Văn Trường 		        22146439
 Nguyễn Thái Tuấn	        22146443
-'''
+*/
 
 #define DEVICE_PATH "/dev/bmp180" 
 

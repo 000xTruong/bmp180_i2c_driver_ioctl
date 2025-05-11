@@ -8,13 +8,13 @@
 #include <linux/mutex.h>     
 #include <linux/math64.h>   
 
-'''
+/*
 Họ và tên		            MSSV
 Nguyễn Thanh Trọng  	    22146431
 Huỳnh Xuân Trường  	        22146435
 Tạ Văn Trường 		        22146439
 Nguyễn Thái Tuấn	        22146443
-'''
+*/
 
 // Định nghĩa tên cho driver, class và device.
 #define DRIVER_NAME "bmp180_driver"
